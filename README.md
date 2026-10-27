@@ -5,6 +5,7 @@ The goal of the project is to create an app that consumers can use to gauge whet
 
 We used data from NBA_stats API stored in an S3 bucket to train a model, which is then stored in the same S3 bucket. The predict.py file calls this model to pull data and make predictions.
 
+You can run the uploaded streamlit app here https://nbablowoutpredictor-htnarsuqsjczenfumtx6uh.streamlit.app/ 
 For any questions regarding this project, contact us at joommen@charlotte.edu
 
 ## How It Works
