@@ -2,6 +2,6 @@ pandas
 boto3
 joblib
 numpy
-scipy.stats
+scipy
 streamlit
 time
