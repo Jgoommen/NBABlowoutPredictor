@@ -1,5 +1,5 @@
 # NBABlowoutPredictor
-## Project to predict the likelihood of a given NBA matchup being a blowout
+## Overview
 
 The goal of the project is to create an app that consumers can use to gauge whether they want to attend a given NBA game. This comes from the idea that blowouts are generally not fun to attend, and, if given the choice, people would much rather attend a close game than a very lopsided one. The project has a secondary use, which is the ability to be used by NBA front offices to assess the difficulty of future games. They could use informtion from this project to better allocate film and prepare better.
 
