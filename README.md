@@ -23,4 +23,5 @@ The data comes from NBA.com stats via the NBA_api stats wrapper. The API is free
 3. Run the streamlit app
    ```bash
    streamlit run app.py
+You can also run the uploaded streamlit app from this link https://nbablowoutpredictor-htnarsuqsjczenfumtx6uh.streamlit.app/ 
    
