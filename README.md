@@ -5,8 +5,6 @@ The goal of the project is to create an app that consumers can use to gauge whet
 
 We used data from NBA_stats API stored in an S3 bucket to train a model, which is then stored in the same S3 bucket. The predict.py file calls this model to pull data and make predictions.
 
-pull_games.py was ran first, which has the desired years we wanted to pull data from, and saved the data as a csv. Next, the 
-
 For any questions regarding this project, contact us at joommen@charlotte.edu
 
 ## How It Works
